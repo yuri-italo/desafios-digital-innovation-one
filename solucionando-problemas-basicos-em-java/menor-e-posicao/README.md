@@ -9,7 +9,7 @@ A primeira linha apresenta a mensagem “Menor valor:” seguida de um espaço e
 
  
 ## Exemplo de Entrada	
-10
+10<br>
 1 2 3 4 -5 6 7 8 9 10
 
 ## Exemplo de Saída

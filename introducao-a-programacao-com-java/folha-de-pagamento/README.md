@@ -10,16 +10,16 @@ Você receverá 2 números inteiros e 1 número com duas casas decimais, represe
 
 Exiba o número e o salário do colaborador, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade. No caso do salário, também deve haver um espaço em branco após o $.
 
- 
+  
 
-| Exemplos de Entrada | Exemplos de Saída              |
-| ------------------- | ------------------------------ |
-| 25 100 5.50         | NUMBER = 25 SALARY = U$ 550.00 |
+| Exemplo de Entrada  | Exemplo de Saída                   |
+| ------------------- | ---------------------------------- |
+| 25<br> 100<br> 5.50 | NUMBER = 25 <br>SALARY = U$ 550.00 |
 
-| 1 200 20.50 | NUMBER = 1 SALARY = U$ 4100.00 |
-| ----------- | ------------------------------ |
-|             |                                |
+| Exemplo de Entrada | Exemplo de Saída                  |
+| ------------------ | --------------------------------- |
+| 1<br>200<br>20.50  | NUMBER = 1<br>SALARY = U$ 4100.00 |
 
-| 6 145 15.55 | NUMBER = 6 SALARY = U$ 2254.75 |
-| ----------- | ------------------------------ |
-|             |                                |
+| Exemplo de Entrada | Exemplo de Saída                  |
+| ------------------ | --------------------------------- |
+| 6<br>145<br>15.55  | NUMBER = 6<br>SALARY = U$ 2254.75 |

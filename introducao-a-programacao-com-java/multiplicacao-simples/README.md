@@ -12,14 +12,14 @@ Exiba a variável **PROD** conforme exemplo abaixo, tendo obrigatoriamente um es
 
  
 
-| Exemplos de Entrada | Exemplos de Saída |
-| ------------------- | ----------------- |
-| 3 9                 | PROD = 27         |
+| Exemplo de Entrada | Exemplo de Saída |
+| ------------------ | ---------------- |
+| 3<br>9             | PROD = 27        |
 
-| -30 10 | PROD = -300 |
-| ------ | ----------- |
-|        |             |
+| Exemplo de Entrada | Exemplo de Saída |
+| ------------------ | ---------------- |
+| -30<br>10          | PROD = -300      |
 
-| 0 9  | PROD = 0 |
-| ---- | -------- |
-|      |          |
+| Exemplo de Entrada | Exemplo de Saída |
+| ------------------ | ---------------- |
+| 0<br>9             | PROD = 0         |

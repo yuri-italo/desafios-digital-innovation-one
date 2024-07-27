@@ -7,8 +7,8 @@ import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
-        Curso curso1 = new Curso("Curso de Java","Descrição do curso de Java",10);
-        Curso curso2 = new Curso("Curso de Python","Descrição do curso de Python",8);
+        Curso curso1 = new Curso("Curso de Java","Descrição do curso de Java.",10);
+        Curso curso2 = new Curso("Curso de Python","Descrição do curso de Python.",8);
 
         Mentoria mentoria1 = new Mentoria("Mentoria de Java",
                 "Descrição da mentoria de Java",
